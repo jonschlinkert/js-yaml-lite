@@ -10,7 +10,8 @@
   },
   "license": "MIT",
   "files": [
-    "index.js"
+    "index.js",
+    "js-yaml.js"
   ],
   "main": "index.js",
   "engines": {
