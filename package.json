@@ -1,7 +1,7 @@
 {
   "name": "js-yaml-lite",
   "description": "Temporary minified copy of js-yaml until the project exposes a minified version and starts using the `files` property in package.json.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/js-yaml-lite",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/js-yaml-lite",
